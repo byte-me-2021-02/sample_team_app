@@ -1,4 +1,7 @@
-{ name: "james b",
+{ name: "brian",
+  name: "ben",
+  name: "james b",
   name2: "brian",
   name3: "brad",
-  kaitlin: "kaitlin" }
+  kaitlin: "kaitlin",
+  name4: "ben" }
