@@ -1,0 +1,2 @@
+class Api::AppropriateControllerForThingsController < ApplicationController
+end
