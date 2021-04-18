@@ -1,34 +1,20 @@
 
 {
-  name: "brian",
-  yitzy: "yitzy",
-
-
-name: "brian", 
+brian: "brian", 
 seth: "Seth",
-name2: "brad",
-george: "george" 
-name: "charlotte",
-name: "brian",
-
-  name: "ben",
-  name4: "james b",
-  name2: "brian",
-  name3: "brad",
-
-
-  name4: "ben",
-
-
-  kaitlin: "kaitlin",
-  name4: "ben" ,
-
-  mat: "mat" 
-  kaitlin: "kaitlin",
-  name4: "ben" ,
-  lauren: "lauren",
-  george: "george" ,
-
-
-  george: "george" }
+brad: "brad",
+george: "george",
+ben: "ben",
+james: "james b",
+kaitlin: "kaitlin",
+mat: "mat" ,
+micah: "micah",
+yitzy: "yitzy",
+lauren: "lauren",
+eric: "eric",
+charlotte: "charlotte",
+austin: "austin",
+thom: "thom",
+adam: "adam",
+ }
 
