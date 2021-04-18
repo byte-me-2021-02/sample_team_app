@@ -1,5 +1,9 @@
+
 { name: "james b",
   name2: "brian",
-  name3: "brad" 
-  name4: "micah"}
+  name3: "brad", 
+  name4: "micah",
+  name5: "ben",
+  name6: "brian"
+}
 
