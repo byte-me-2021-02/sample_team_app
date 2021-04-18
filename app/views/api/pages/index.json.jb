@@ -1,14 +1,16 @@
 
-{name: "brian", 
+{
+brian: "brian", 
 seth: "Seth",
-name2: "brad",
+brad: "brad",
 george: "george",
-  name: "ben",
-  name: "james b",
-  name2: "brian",
-  name3: "brad",
-  kaitlin: "kaitlin",
-  name4: "ben" ,
-  george: "george",
-micah: "micah" }
+ben: "ben",
+james: "james b",
+kaitlin: "kaitlin",
+mat: "mat" 
+micah: "micah"
+
+
+ }
+
 
