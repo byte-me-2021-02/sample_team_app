@@ -9,5 +9,6 @@ Rails.application.routes.draw do
     get "/properties" => "properties#index"
 
     get "/brians" => "brians#index"
+    get "/albums" => "albums#index"
   end
 end
