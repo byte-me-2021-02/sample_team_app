@@ -1,1 +1,2 @@
-{name: "brian"}
+{ name: "brian",
+  name: "george" }
