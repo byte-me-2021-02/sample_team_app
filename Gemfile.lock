@@ -186,7 +186,11 @@ GEM
     zeitwerk (2.4.2)
 
 PLATFORMS
+<<<<<<< HEAD
   x86_64-darwin-17
+=======
+  x86_64-darwin-19
+>>>>>>> f7c958de9951d298c4d4716d9c6a19833c0f3bc4
 
 DEPENDENCIES
   bootsnap (>= 1.4.4)
@@ -208,4 +212,8 @@ RUBY VERSION
    ruby 3.0.0p0
 
 BUNDLED WITH
+<<<<<<< HEAD
    2.2.3
+=======
+   2.2.12
+>>>>>>> f7c958de9951d298c4d4716d9c6a19833c0f3bc4
