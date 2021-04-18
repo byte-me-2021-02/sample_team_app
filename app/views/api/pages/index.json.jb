@@ -1,2 +1,2 @@
 { name: "brian" }
-{ name: "Thom" }
+{ Thom: "Thom" }
