@@ -1,7 +1,9 @@
+<<<<<<< HEAD
 { name: "brian",
   name: "ben",
   name: "james b",
   name2: "brian",
   name3: "brad",
   kaitlin: "kaitlin",
-  name4: "ben" }
+  name4: "ben" ,
+  george: "george" }
