@@ -1,22 +1,16 @@
-
 {
-brian: "brian", 
-seth: "Seth",
-george: "george" 
-name2: "brian",
-name3: "brad",
-george: "george",
-ben: "ben",
-james: "james b",
-kaitlin: "kaitlin",
-mat: "mat" ,
-micah: "micah",
-yitzy: "yitzy",
-lauren: "lauren",
-eric: "eric",
-charlotte: "charlotte",
-austin: "austin",
-thom: "thom",
- }
-
-
+  brian: "brian",
+  seth: "Seth",
+  george: "george",
+  ben: "ben",
+  james: "james b",
+  kaitlin: "kaitlin",
+  mat: "mat",
+  micah: "micah",
+  yitzy: "yitzy",
+  lauren: "lauren",
+  eric: "eric",
+  charlotte: "charlotte",
+  austin: "austin",
+  thom: "thom",
+}
