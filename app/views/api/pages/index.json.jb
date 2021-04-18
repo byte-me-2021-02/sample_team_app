@@ -1,1 +1,6 @@
-{name: "lauren"}
+{
+  nameLM: "lauren",
+  name: "james b",
+  name2: "brian",
+  name3: "brad" 
+}
