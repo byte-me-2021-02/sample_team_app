@@ -13,5 +13,6 @@ Rails.application.routes.draw do
     get "/bananas" => "bananas#index"
     get "/albums" => "albums#index"
     get "/parks" => "parks#index"
+    get "/sterlings" => "sterlings#index"
   end
 end

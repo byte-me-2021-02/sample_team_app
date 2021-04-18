@@ -187,6 +187,9 @@ GEM
 
 PLATFORMS
 <<<<<<< HEAD
+  x86_64-darwin-18
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
   x86_64-darwin-17
@@ -209,6 +212,7 @@ PLATFORMS
   x86_64-darwin-19
   x86_64-darwin-20
 >>>>>>> b8025b5ebd6400c2ff565f1d0bc9988a278aa246
+>>>>>>> b75bcf2a816118fce2f856d1fe8fc0d0953e78cf
 
 DEPENDENCIES
   bootsnap (>= 1.4.4)
@@ -231,6 +235,9 @@ RUBY VERSION
 
 BUNDLED WITH
 <<<<<<< HEAD
+   2.2.3
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
    2.2.3
 =======
@@ -239,3 +246,4 @@ BUNDLED WITH
 =======
    2.2.12
 >>>>>>> b8025b5ebd6400c2ff565f1d0bc9988a278aa246
+>>>>>>> b75bcf2a816118fce2f856d1fe8fc0d0953e78cf
