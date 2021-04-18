@@ -1,9 +1,14 @@
 
-{ name: "james b",
+{name: "brian", 
+seth: "Seth",
+name2: "brad",
+george: "george",
+  name: "ben",
+  name: "james b",
   name2: "brian",
-  name3: "brad", 
-  name4: "micah",
-  name5: "ben",
-  name6: "brian"
-}
+  name3: "brad",
+  kaitlin: "kaitlin",
+  name4: "ben" ,
+  george: "george",
+micah: "micah" }
 
