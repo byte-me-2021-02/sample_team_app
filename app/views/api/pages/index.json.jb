@@ -1,0 +1,28 @@
+<<<<<<< HEAD
+=======
+
+{name: "brian", 
+seth: "Seth",
+name2: "brad",
+george: "george" 
+name: "brian",
+  name: "ben",
+  name: "james b",
+  name2: "brian",
+  name3: "brad",
+<<<<<<< HEAD
+  mat: "mat" 
+=======
+  kaitlin: "kaitlin",
+  name4: "ben" ,
+<<<<<<< HEAD
+  george: "george" 
+>>>>>>> 555792838072ea37cf70a9d79d5e6e849a8f67f3
+=======
+  george: "george"}
+>>>>>>> 272d03a438c3a114911a3ca62977d8aab15c200a
+>>>>>>> 2796a260a99f8dffce20b3cd49c436c432cd17be
+
+#whoever sees this next if you agree it should be an array please make it so
+
+#{names: ["brian", "seth", "brad", "george", "ben", "james b", "mat", "kaitlin"]}
