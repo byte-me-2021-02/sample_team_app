@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 {name: "brian",
 name: "ben"}
+=======
+{ name: "james b",
+  name2: "brian",
+  name3: "brad",
+  name4: "ben" }
+>>>>>>> 944c14b59b96a7680adf663a5cf511aefa4702c2
