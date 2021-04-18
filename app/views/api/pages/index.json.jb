@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   name: "brian",
   yitzy: "yitzy",
@@ -9,6 +10,22 @@
   george: "george" 
   name: "charlotte",
   name: "brian",
+=======
+
+
+
+{ name: "brian",
+
+  name: "brian",
+  yitzy: "yitzy",
+
+name: "brian", 
+seth: "Seth",
+name2: "brad",
+george: "george" 
+name: "charlotte",
+name: "brian",
+>>>>>>> faa1184145dc2a3fbb68af9ef078e8286455ab8f
 
   name: "ben",
   name4: "james b",
@@ -23,6 +40,7 @@
   name4: "ben" ,
 
   mat: "mat" 
+
   kaitlin: "kaitlin",
   name4: "ben" ,
   lauren: "lauren",
@@ -30,5 +48,21 @@
 
 
   george: "george",
-  names: ["brian", "seth", "brad", "george", "ben", "james b", "mat", "kaitlin", "lauren"]
+<<<<<<< HEAD
+  names: ["brian", "seth", "brad", "george", "ben", "james b", "mat", "kaitlin", "lauren", "eric"]
 }
+=======
+my_name: "eric" ,
+
+  george: "george" 
+
+  george: "george" ,
+
+  mat: "mat" 
+  kaitlin: "kaitlin",
+  name4: "ben" ,
+
+  george: "george" 
+
+  george: "george" }
+>>>>>>> faa1184145dc2a3fbb68af9ef078e8286455ab8f
