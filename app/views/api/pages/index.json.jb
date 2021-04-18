@@ -1,4 +1,13 @@
-{ name: "james b",
+<<<<<<< HEAD
+{ name: "brian",
+  name: "ben",
+  name: "james b",
   name2: "brian",
   name3: "brad",
-  mat: "mat" }
+<<<<<<< HEAD
+  mat: "mat" 
+=======
+  kaitlin: "kaitlin",
+  name4: "ben" ,
+  george: "george" }
+>>>>>>> 555792838072ea37cf70a9d79d5e6e849a8f67f3
