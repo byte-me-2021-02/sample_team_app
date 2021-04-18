@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 {
   name: "brian",
   yitzy: "yitzy",
@@ -82,3 +83,6 @@ my_name: "eric" ,
   george: "george" }
 >>>>>>> faa1184145dc2a3fbb68af9ef078e8286455ab8f
 >>>>>>> 7bd32b5514d2ac827e2dac970bde1ad5e3bbe499
+=======
+{ name: ["austin"]}
+>>>>>>> f09f8ae1a16ff4fa06eb02e885753cf530e1dac8
