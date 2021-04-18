@@ -65,7 +65,7 @@ name: "brian",
 
   george: "george",
 <<<<<<< HEAD
-  names: ["brian", "seth", "brad", "george", "ben", "james b", "mat", "kaitlin", "lauren", "eric"]
+  names: ["brian", "seth", "brad", "george", "ben", "james b", "mat", "kaitlin", "lauren", "eric", "austin"]
 }
 =======
 my_name: "eric" ,
