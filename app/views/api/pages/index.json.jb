@@ -1,1 +1,4 @@
-{ name: "kaitlin" }
+{ name: "james b",
+  name2: "brian",
+  name3: "brad",
+  kaitlin: "kaitlin" }
